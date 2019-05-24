@@ -222,7 +222,7 @@ h3:after {
 }
 
 .toku2 {
-    font-family: "游ゴシック体", YuGothic;
+    font-family: "游ゴシック体", YuGothic,sans-serif;
     font-weight: bold;
     color: #ffffff;
     margin-top: 30px;
@@ -230,7 +230,7 @@ h3:after {
 }
 
 .toku3 {
-    font-family: "游ゴシック体", YuGothic;
+    font-family: "游ゴシック体", YuGothic,sans-serif;
     font-weight: bold;
     font-size: 12px;
     color: #21191b;
@@ -248,7 +248,7 @@ h3:after {
 }
 
 .namae {
-    font-family: "游ゴシック体", YuGothic;
+    font-family: "游ゴシック体", YuGothic,sans-serif;
     font-weight: bold;
     color: #21191b;
     font-size: 35px;
@@ -278,7 +278,7 @@ h3:after {
 }
 
 .setsumei {
-    font-family: "游ゴシック体", YuGothic;
+    font-family: "游ゴシック体", YuGothic,sans-serif;
     font-weight: bold;
     font-size: 90%;
     color: #21191b;
@@ -358,7 +358,7 @@ h3:after {
 }
 
 .right {
-    font-family: "游ゴシック体", YuGothic;
+    font-family: "游ゴシック体", YuGothic,sans-serif;
     font-weight: bold;
     color: #fff;
     width: 90%;
@@ -367,7 +367,7 @@ h3:after {
 }
 
 .graphicsetsumei{
-    font-family: "游ゴシック体", YuGothic;
+    font-family: "游ゴシック体", YuGothic,sans-serif;
     font-weight: bold;
     color: #fff;
     margin: auto;
@@ -387,14 +387,14 @@ h3:after {
 }
 
 .websetsumei {
-    font-family: "游ゴシック体", YuGothic;
+    font-family: "游ゴシック体", YuGothic,sans-serif;
     font-weight: bold;
     color: #fff;
     margin: auto;
 }
 
 .illustrationsetsumei {
-    font-family: "游ゴシック体", YuGothic;
+    font-family: "游ゴシック体", YuGothic,sans-serif;
     font-weight: bold;
     color: #fff;
     margin: auto;
@@ -446,7 +446,7 @@ h3:after {
 }
 
 .modal-text{
-    font-family: "游ゴシック体", YuGothic;
+    font-family: "游ゴシック体", YuGothic,sans-serif;
     font-weight: bold;
     font-size: 50px;
 }

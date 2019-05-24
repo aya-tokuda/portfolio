@@ -36,10 +36,11 @@ h1 {
 nav {
     font-size: 20px;
     transform: rotate(-90deg);
+    z-index: 999;
     position: fixed;
     top: 150px;
     left: -80px;
-　　z-index: 999;
+　　
 }
 
 nav ul {
@@ -281,7 +282,7 @@ h3:after {
 #skill {
     height: auto;
     background-color: #4fc2bf;
-    padding: 20px;
+    padding: 0px;
 }
 
 .title2 {

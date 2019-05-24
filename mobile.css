@@ -193,6 +193,7 @@ h3:after {
     margin: 20px auto;
     border-radius: 10px;
     position: relative;
+	z-index: 20;
 }
 
 .white {

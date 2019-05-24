@@ -38,7 +38,11 @@ nav {
     position: fixed;
     top: 300px;
     left: 0px;
+<<<<<<< HEAD
     z-index: 999;
+=======
+　　z-index: 999;
+>>>>>>> origin/master
 }
 
 nav ul {

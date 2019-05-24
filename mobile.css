@@ -40,7 +40,11 @@ nav {
     position: fixed;
     top: 150px;
     left: -80px;
+<<<<<<< HEAD
     
+=======
+　　
+>>>>>>> origin/master
 }
 
 nav ul {
@@ -194,7 +198,11 @@ h3:after {
     margin: 20px auto;
     border-radius: 10px;
     position: relative;
+<<<<<<< HEAD
     z-index: 0;
+=======
+	z-index: 20;
+>>>>>>> origin/master
 }
 
 .white {
@@ -282,7 +290,7 @@ h3:after {
 #skill {
     height: auto;
     background-color: #4fc2bf;
-    padding: 20px;
+    padding: 0px;
 }
 
 .title2 {

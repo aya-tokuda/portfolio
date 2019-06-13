@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: futura, "游ゴシック体", YuGothic;
+    font-family: futura, "游ゴシック体", YuGothic,sans-serif;
 
 }
 
@@ -34,7 +34,7 @@ h1 {
 
 
 nav {
-    font-size: 20px;
+    font-size: 15px;
     transform: rotate(-90deg);
     z-index: 999;
     position: fixed;
@@ -47,6 +47,8 @@ nav {
 >>>>>>> origin/master
 }
 
+
+
 nav ul {
     list-style-type: none;
     width: 100%;
@@ -57,6 +59,7 @@ nav ul {
 }
 
 nav ul li {
+   
     width: 20%;
     padding: 0;
     margin: 0;
@@ -64,6 +67,7 @@ nav ul li {
 }
 
 nav li a {
+    
     width: auto;
     color: #21191b;
     margin-left: 0px;
@@ -194,6 +198,7 @@ h3:after {
 .container1 {
     width: 220px;
     height: 260px;
+    padding-bottom: 20px;
     background-color: #4fc2bf;
     margin: 20px auto;
     border-radius: 10px;
@@ -401,7 +406,7 @@ h3:after {
 }
 
 #works {
-    max-width: 800px;
+    max-width: 90%;
     margin: 0 auto;
 }
 
@@ -423,7 +428,7 @@ h3:after {
 
 .item {
     margin: 10px;
-    width: 200px;
+    width: 100px;
     /*  padding: 8px;*/
     /*  border: 1px solid #eee;*/
 }

@@ -410,6 +410,7 @@ h3:after {
     /*  position: relative;*/
     max-width: 90%;
     margin: 20px auto;
+    padding-left: 15%;
     /*全体の中央寄せ*/
 }
 

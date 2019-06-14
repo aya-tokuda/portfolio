@@ -456,13 +456,11 @@
     <script src="js/imagesloaded.pkgd.min.js"></script>
     <script src="js/modaal.min.js"></script>
     <script>
-        jQuery(function($) {
-            $('.works').masonry({
-                itemSelector: '.item',
-                columnWidth: 10,
-                isFitWidth: true //親要素の幅に合わせてカラム数を自動調整
-            });
-        });
+        $(window).on('load',function(){//←修正後1がダメならこちら
+    $('.works').masonry({
+      itemSelector: '.item',
+    });
+});
 
         $('.modal').modaal();
         

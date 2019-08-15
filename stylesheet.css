@@ -155,7 +155,6 @@ nav li a:hover {
 h3 {
   position: relative;
 }
-
 h3:after {
   content: "";
   position: absolute;
@@ -392,7 +391,7 @@ h3:after {
 }
 
 #works {
-    max-width: 900px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
@@ -400,6 +399,7 @@ h3:after {
     /*  position: relative;*/
     max-width: 900px;
     margin: 100px auto;
+    padding-left: 10%;
     /*全体の中央寄せ*/
 }
 
@@ -443,20 +443,16 @@ h3:after {
 }
 
 /*
-
-
 .grid {
     margin: auto;
     width: 800px;
 }
-
 .grid-item {
     width: 200px;
     height: auto;
     float: left;
     margin: 10px;
 }
-
 .grid-item img {
     width: 200px;
     vertical-align: bottom;
